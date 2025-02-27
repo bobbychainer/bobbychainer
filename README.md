@@ -11,7 +11,10 @@ In addition to the core game development, I am also equipped to integrate crypto
 - 📫 Crypto Deposits and Withdrawals: Secure and fast transactions with popular cryptocurrencies like Bitcoin, Ethereum, Solana, etc.
 - 💬 Secure Wallet System: Enabling users to manage their funds directly within the game platform.
 
-🔹 Currently building: AI-Integrated bots and crypto casino platforms.
-- 
-🔹 Looking for: Clients to handle playing card game platform.
-- 
+🔹 Currently building: 
+- AI-Integrated bots and crypto casino platforms.
+- Mobile casual, arcade, and fantasy game apps.
+
+🔹 Looking for: 
+- Clients to handle playing card game platform.
+- A new role to work as a full-time employee.
