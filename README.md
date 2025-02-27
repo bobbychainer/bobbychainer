@@ -8,9 +8,10 @@ In addition to the core game development, I am also equipped to integrate crypto
 - 🤔 User-Friendly Interface: Intuitive UI for players of all skill levels.
 - ⚡ Robust Backend: Secure servers with high performance for real-time play.
 - 👯 Cross-Platform Compatibility: Accessible on both mobile and desktop devices.
-- 📫 Crypto Deposits and Withdrawals: Seamless integration with popular cryptocurrencies like Bitcoin, Ethereum, etc., ensuring secure and fast transactions.
+- 📫 Crypto Deposits and Withdrawals: Secure and fast transactions with popular cryptocurrencies like Bitcoin, Ethereum, Solana, etc.
 - 💬 Secure Wallet System: Enabling users to manage their funds directly within the game platform.
 
 🔹 Currently building: AI-Integrated bots and crypto casino platforms.
-
+- 
 🔹 Looking for: Clients to handle playing card game platform.
+- 
